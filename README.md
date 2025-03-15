@@ -1,4 +1,5 @@
-## Hi there 👋
+![katanail-nailtana](https://github.com/user-attachments/assets/f8f36702-85aa-48ee-afd5-4306d1803a32)
+
 
 <!--
 **TheNaiIFiend/TheNaiIFiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
